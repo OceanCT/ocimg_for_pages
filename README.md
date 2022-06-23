@@ -1,2 +1,2 @@
-# ocimg_for_oages
+# ocimg_for_pages
 为pages提供图床
